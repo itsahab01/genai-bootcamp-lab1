@@ -12,10 +12,10 @@ This repository is part of the Generative AI Bootcamp setup lab. It demonstrates
 
 ##  Links
 
-* GitHub Profile: https://github.com/<your-username>
+* GitHub Profile: https://github.com/itsahab01
 * Repository: https://github.com/itsahab01/genai-bootcamp-lab1.git
-* Hugging Face Profile: https://huggingface.co/<your-username>
-* Hugging Face Space: https://huggingface.co/spaces/<your-username>/genai-bootcamp-demo
+* Hugging Face Profile: https://huggingface.co/itsahab01
+* Hugging Face Space: https://huggingface.co/spaces/itsahab01/genai-bootcamp-demo
 
 ##  Objective
 
